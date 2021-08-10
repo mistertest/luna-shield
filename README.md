@@ -17,6 +17,8 @@ So, I decided to continue my adventure about cloud Gaming and Android technology
 
 
 
+
+
 **Context**
 
 Originally **Luna** is **accessible** by a "**Progressive Web App**" (PWA) on Smart-phone and Tablets with specifics models Android and Apple only. 
@@ -30,9 +32,13 @@ I'm glad to share with you this **World Premiere Unofficial**.
 
 
 
+
+
 **Version info**
 
 This first **pre-release** version of the **Luna** is here for testing and feedback reviews
+
+
 
 
 
