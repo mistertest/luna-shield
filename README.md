@@ -60,6 +60,26 @@ Like with the Xcloud beta App, the mapping of the select/back button on the shie
  https://github.com/mistertest/xcloud-shield/wiki
  
  
+ 
+ ### **Features version**
+
+- Fully integrated to the Shied Android TV with Banner icons
+- Interface Luna fully optimized for controller and remote navigation 
+- No required mouse/ No browser
+- A powerful Webview optimized tor the cloud gaming 
+- Just "click and play"  Ux experience
+- Android 7-11 and Android 12 soon
+
+
+
+### Requirements 
+
+- Xbox controller is recommended but all Xinput Controller are accepted
+- Updating your Xbox controller from your pc
+- Download and update the last version of Webview in your play store 
+ 
+ 
+ 
  # **Screenshots**
  
  
