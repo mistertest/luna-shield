@@ -76,7 +76,7 @@ Like with the Xcloud beta App, the mapping of the select/back button on the shie
 
 - Xbox controller is recommended but all Xinput Controller are accepted
 - Updating your Xbox controller from your pc
-- Download and update the last version of Webview in your play store 
+- Download and update the last version of "Webview" in your play store 
  
  
  
