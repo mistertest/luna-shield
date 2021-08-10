@@ -60,7 +60,7 @@ Like with the Xcloud beta App, the mapping of the select/back button on the shie
  https://github.com/mistertest/xcloud-shield/wiki
  
  
- **Screen-shots**
+ # **Screen-shots**
  
  
  ![Xcloud_beta_home_icon](https://github.com/mistertest/luna-shield/blob/main/images/luna_int1.png)
