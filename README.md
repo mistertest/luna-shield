@@ -124,8 +124,6 @@ Like with the Xcloud beta App, the mapping of the select/back button on the shie
  
  ![Xcloud_beta_home_icon](https://github.com/mistertest/luna-shield/blob/main/images/luna_game7.png)
  
- ![Xcloud_beta_home_icon](https://github.com/mistertest/luna-shield/blob/main/images/luna_game8.png)
- 
  ![Xcloud_beta_home_icon](https://github.com/mistertest/luna-shield/blob/main/images/luna_game9.png)
  
  ![Xcloud_beta_home_icon](https://github.com/mistertest/luna-shield/blob/main/images/luna_game10.png)
