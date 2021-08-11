@@ -79,6 +79,13 @@ Like with the Xcloud beta App, the mapping of the select/back button on the shie
 - Download and update the last version of "Webview" in your play store 
  
  
+ ### Special thanks
+ 
+ Special Thanks to the number one comunauty about the Cloud gaming:
+ cloud Gaming Xtreme - The CGX 
+ https://www.youtube.com/c/CloudGamingXtreme/videos
+ 
+ 
  
  # **Screenshots**
  
