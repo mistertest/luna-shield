@@ -96,6 +96,8 @@ Like with the Xcloud beta App, the mapping of the select/back button on the shie
  The CGX 
  https://www.youtube.com/c/CloudGamingXtreme/videos
  
+ Thx to members Titoo and Bademann  for their precious help.
+ 
  
  
  # **Screenshots**
