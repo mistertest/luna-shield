@@ -82,6 +82,10 @@ Like with the Xcloud beta App, the mapping of the select/back button on the shie
  
  ### Special thanks
  
+ ![CGX icon](https://github.com/mistertest/luna-shield/blob/main/images/unnamed.jpg)
+ 
+ 
+ 
  Special Thanks to the number one comunauty about the Cloud gaming:
  cloud Gaming Xtreme - The CGX 
  https://www.youtube.com/c/CloudGamingXtreme/videos
