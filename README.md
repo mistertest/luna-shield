@@ -122,12 +122,12 @@ Like with the Xcloud beta App, the mapping of the select/back button on the shie
  
  ![Xcloud_beta_home_icon](https://github.com/mistertest/luna-shield/blob/main/images/luna_int7.png)
  
- ![Xcloud_beta_home_icon](https://github.com/mistertest/luna-shield/blob/main/images/luna_game2.png)
+ ![Xcloud_beta_home_icon](https://github.com/mistertest/luna-shield/blob/main/images/luna_game7.png)
  
- ![Xcloud_beta_home_icon](https://github.com/mistertest/luna-shield/blob/main/images/luna_game3.png)
+ ![Xcloud_beta_home_icon](https://github.com/mistertest/luna-shield/blob/main/images/luna_game8.png)
  
- ![Xcloud_beta_home_icon](https://github.com/mistertest/luna-shield/blob/main/images/luna_game4.png)
+ ![Xcloud_beta_home_icon](https://github.com/mistertest/luna-shield/blob/main/images/luna_game9.png)
  
- ![Xcloud_beta_home_icon](https://github.com/mistertest/luna-shield/blob/main/images/luna_game5.png)
+ ![Xcloud_beta_home_icon](https://github.com/mistertest/luna-shield/blob/main/images/luna_game10.png)
  
- ![Xcloud_beta_home_icon](https://github.com/mistertest/luna-shield/blob/main/images/luna_game6.png)
+ ![Xcloud_beta_home_icon](https://github.com/mistertest/luna-shield/blob/main/images/luna_game11.png)
