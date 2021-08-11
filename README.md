@@ -22,7 +22,9 @@ Hello every one, after the success of my precedent project :
 
 I'm proud to give the best optimized and integrated Xcloud experience in Android TV for the Shield TV as this day (Xbox Official have not a android TV solution).
 
-So, I decided to continue my adventure about cloud Gaming and Android technology with an exclusive : **The Luna App for the shield tv**.
+So, I decided to continue my adventure about cloud Gaming and Android technology with an exclusive : 
+
+**The Luna App for the shield tv**.
 
 
 
