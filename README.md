@@ -75,6 +75,7 @@ Like with the Xcloud beta App, the mapping of the select/back button on the shie
 ### Requirements 
 
 - Xbox controller is recommended but all Xinput Controller are accepted
+- A Luna active account available only for US clients for now
 - Updating your Xbox controller from your pc
 - Download and update the last version of "Webview" in your play store 
  
