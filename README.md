@@ -62,8 +62,9 @@ https://github.com/mistertest/luna-shield/releases
 
 **Known issues**
 
-- The major issue is the margin on left/right and bottom around the stream. 
 
+***Resolved***
+- The major issue is the margin on left/right and bottom around the stream. 
 I'm working about this issue, but games are playable with no issues in the shield TV.
 ***Resolved***
 
