@@ -11,6 +11,9 @@
 ![Luna_intro](https://github.com/mistertest/luna-shield/blob/main/images/luna_int6.png)
 
 
+*** Version Pre-release ***
+https://github.com/mistertest/luna-shield/releases
+
 
 
 
