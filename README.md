@@ -6,7 +6,7 @@
 
 ## The Unofficial App of <u>Amazon Luna Cloud gaming</u> for the Nvidia Shield TV
 
-*** Version Pre-release ***
+*** Version luna_shield_V1 is here ***
 
 https://github.com/mistertest/luna-shield/releases
 
