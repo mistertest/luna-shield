@@ -1,6 +1,13 @@
 # Luna-Shield 
 
 
+### PAYPAL ME
+
+If you appreciate my work and would like encourage me to continue all my projects, you can make a donate. I need having some hardware devices, for testing apps like a chromecast or  others things like some subscribtions to online services. So if you would like that i level up for updating my apps the donations are benefits. 
+You can use this button Paypal for donations.
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/paypalme/cmsxpert)
+
 
 ## World Premiere !
 
