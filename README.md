@@ -1,21 +1,16 @@
 # Luna-Shield 
 
 
-## World Premiere !
+World Premiere !
 
-## The Unofficial App of <u>Amazon Luna Cloud gaming</u> for the Nvidia Shield TV
+The Unofficial App of <u>Amazon Luna Cloud gaming</u> for the Nvidia Shield TV
 
 *** Version luna_shield_V1 is here ***
 
 https://github.com/mistertest/luna-shield/releases
 
 
-![Luna_home](https://github.com/mistertest/luna-shield/blob/main/images/luna_home1.png)
-
-![Luna_intro](https://github.com/mistertest/luna-shield/blob/main/images/luna_int6.png)
-
-
-
+![Luna_home](https://github.com/mistertest/luna-shield/blob/main/images/luna_banner_app.png)
 
 
 
@@ -130,6 +125,9 @@ You can use this button Paypal for donations.
  
  # **Screenshots**
  
+ ![Luna_home](https://github.com/mistertest/luna-shield/blob/main/images/luna_home1.png)
+ 
+ ![Luna_intro](https://github.com/mistertest/luna-shield/blob/main/images/luna_int6.png)
  
  ![Xcloud_beta_home_icon](https://github.com/mistertest/luna-shield/blob/main/images/luna_int5.png)
  
