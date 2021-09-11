@@ -119,6 +119,8 @@ You can use this button Paypal for donations.
  
  # **Screenshots**
  
+ Accessible from Home
+ 
  ![Luna_home](https://github.com/mistertest/luna-shield/blob/main/images/luna_home1.png)
  
  ![Xcloud_beta_home_icon](https://github.com/mistertest/luna-shield/blob/main/images/luna_int1.png)
