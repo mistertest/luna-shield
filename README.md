@@ -1,9 +1,8 @@
 # Luna-Shield 
 
 
-World Premiere !
 
-The Unofficial App of <u>Amazon Luna Cloud gaming</u> for the Nvidia Shield TV
+# Luna Cloud Gaming for Nvidia Shield TV
 
 *** Version luna_shield_V1 is here ***
 
