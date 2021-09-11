@@ -1,7 +1,7 @@
 
 # Luna-Shield - Cloud Gaming for Nvidia Shield TV
 
-*** Version luna_shield_V1 is here ***
+*** Luna-shield V1 is here ***
 
 https://github.com/mistertest/luna-shield/releases
 
