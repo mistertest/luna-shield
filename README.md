@@ -1,14 +1,14 @@
 
 # Luna Cloud Gaming for Nvidia Shield Android TV
 
-*** Luna-shield V1 is here ***
 
-https://github.com/mistertest/luna-shield/releases
 
 
 ![Luna_home](https://github.com/mistertest/luna-shield/blob/main/images/luna_banner_app.png)
 
+*** Luna-shield V1 is here ***
 
+https://github.com/mistertest/luna-shield/releases
 
 
 ### About me
