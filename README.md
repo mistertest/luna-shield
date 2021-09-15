@@ -1,5 +1,5 @@
 
-# Luna-Shield - Cloud Gaming for Nvidia Shield TV
+# Luna Cloud Gaming for Nvidia Shield Android TV
 
 *** Luna-shield V1 is here ***
 
