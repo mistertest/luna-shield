@@ -116,7 +116,7 @@ You can use this button Paypal for donations.
  
  ### VIDEOS
  
- [![Watch the video](https://www.youtube.com/watch?v=-TUMwhcMQXY)
+[![Watch the video](https://img.youtube.com/vi/-TUMwhcMQXY/maxresdefault.jpg)](https://www.youtube.com/watch?v=-TUMwhcMQXY)
  
  
  # **Screenshots**
