@@ -87,6 +87,24 @@ Like with the Xcloud beta App, the mapping of the select/back button on the shie
 - A Luna active account available only for US clients for now
 - Updating your Xbox controller from your pc
 - Download and update the last version of "Webview" in your play store 
+
+
+
+### SECURITY
+
+All my projects are safe but i don't want sharing my code here for pernal reasons. It's my decision for now but i can change my mind and orgenise a other method. 
+But you can analys My projects all you want with many tools like APKtoos and others.
+
+Results of securty test 
+https://www.virustotal.com/gui/file/4023eab28cb4de2b64271d9f724ead3ee6db867d84004579246855d9c2f8f7eb
+
+
+Online APK Decompiler 
+http://www.javadecompilers.com/apk
+
+
+
+
  
  
  ### Special thanks
