@@ -92,7 +92,7 @@ Like with the Xcloud beta App, the mapping of the select/back button on the shie
 
 ### SECURITY
 
-All my projects are safe but i don't want sharing my code here for pernal reasons. It's my decision for now but i can change my mind and orgenise a other method. 
+All my projects are safe but i don't want sharing my code here for personal reasons. It's my decision for now but i can change my mind and orgenise a other method. 
 But you can analys My projects all you want with many tools like APKtools and others.
 
 Results of securty test 
