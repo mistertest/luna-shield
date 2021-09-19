@@ -15,7 +15,7 @@
 Hello every one, after the success of my precedent project : 
 
 
-**[Xcloud Beta for Shield TV](https://github.com/mistertest/xcloud-shield)**
+**[Xcloud Beta Unofficial for Shield TV](https://github.com/mistertest/xcloud-shield)**
 
 After having creating, the best way to play Xcloud from the shield TV box, i continue the adventure of cloud Gaming, and i share with you an exclusive : 
 
