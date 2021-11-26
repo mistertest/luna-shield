@@ -12,14 +12,14 @@
 ### About me
 
 
-Hello every one, after the success of my precedent project : 
+Hello everyone, after the success of my precedent project : 
 
 
 **[Xcloud Beta Unofficial for Shield TV](https://github.com/mistertest/xcloud-shield)**
 
 After having creating, the best way to play Xcloud from the shield TV box, I continue the adventure of cloud Gaming, and i share with you an exclusive : 
 
-**The Luna App for the shield tv**.
+**The Luna Cloud Gaming App for the Nvidia Shield TV**.
 
 [![Version](https://img.shields.io/badge/Luna%20Shield-V1-violet.svg)](https://github.com/mistertest/luna-shield/releases/tag/luna_shield_V1)
 
