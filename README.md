@@ -48,14 +48,11 @@ I'm glad to share with you this **World Premiere Unofficial**.
 
  **Release Stable V1** 
 
-https://github.com/mistertest/luna-shield/releases
+[![Version](https://img.shields.io/badge/Luna%20Shield-V1-violet.svg)](https://github.com/mistertest/luna-shield/releases/tag/luna_shield_V1)
 
 
 
 ### Known issues
-
-Margin issues was resolved with the Luna V1
-
 
 
 **Mapping Select/Back Button**
