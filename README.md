@@ -20,7 +20,7 @@ Xcloud Shield - The Unofficial Xbox Cloud Gaming App for Nvidia Shield TV
 [![Version](https://img.shields.io/badge/Xcloud%20Shield-V4.4-brightgreen.svg)](https://github.com/mistertest/xcloud-shield/releases/tag/version_4.4)
 
 After having creating, the best way to play Xcloud from the shield TV box, I continue <br>
-the adventure of cloud Gaming, and i share with you this exclusive.
+the adventure of cloud Gaming, and I share with you this exclusive.
 
 **The Luna Cloud Gaming App for the Nvidia Shield TV**.
 
